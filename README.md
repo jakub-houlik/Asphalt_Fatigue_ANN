@@ -183,3 +183,14 @@ function uses the correct input files for the best model.
 Following these steps, you can efficiently optimize, train, evaluate,
 and visualize machine learning models for predicting asphalt fatigue
 loading cycles.
+
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0
+International License (CC-BY 4.0). See the [LICENSE](LICENSE) file
+for details, or visit http://creativecommons.org/licenses/by/4.0/.
+
+## Citation
+
+If you use this code or the underlying fatigue life data, please cite:
+Houlík, J., Valentin, J., Król, J., Pokorski, P., & Nežerka, V. (2025). Artificial Neural Networks for Predicting Asphalt Fatigue Life: Investigating Material and Loading Parameters with a Comprehensive Dataset and Addressing Model Intricacies. Futuristic Computational Systems and Advanced Engineering for the Society, 62–77. https://doi.org/10.1007/978-3-031-94600-4_5
